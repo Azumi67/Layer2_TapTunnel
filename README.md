@@ -53,5 +53,5 @@ sudo apt update -y && sudo apt install -y python3 python3-pip curl && pip3 insta
 <div align="left">
   
 ```
-Soon
+apt install curl -y && bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/Layer2_TapTunnel/refs/heads/main/tap.sh)"
 ```
